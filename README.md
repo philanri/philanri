@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://phils.design/images/home/phils_design_shop_artwork_banner_1.jpg">
+<img src="https://phils.design/github/github_profile.jpg">
 
 <!--
 **philanri/philanri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
