@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://phils.design/github/github_profile.jpg">
 
 <!--
