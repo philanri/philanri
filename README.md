@@ -1,6 +1,6 @@
 <img src="https://phils.design/github/github_profile.jpg">
 
-Hello there, I’m a new media designer who is passionate about making clean and unique visual methods to present abstract and complex thoughts. As an artist, I focus on making new media arts such as interactive installations and computational images. Currently I am teaching interaction design in a private art school in Beijing.
+Hello there, I’m a new media designer who is passionate about making clean and unique visual methods to present abstract and complex thoughts. I focus on making new media arts such as interactive installations and computational images. Currently I am teaching interaction design in a private art school in Beijing.
 
 <!--
 **philanri/philanri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
