@@ -2,9 +2,9 @@
 
 😄 Hello there, I’m a digital media designer who is passionate about making clean and unique visual methods to present abstract and complex thoughts. 
 
-😄 As a digital media interaction designer, the focus of design is on visual interaction innovation research. Dedicated to deeply exploring the ways of integrating digital technology and traditional media, I am active in the field of innovative design and education, and is committed to the effective expression of innovative design language in the combination of industry, academia and research.
+🤔 As a digital media interaction designer, the focus of design is on visual interaction innovation research. Dedicated to deeply exploring the ways of integrating digital technology and traditional media, I am active in the field of innovative design and education, and is committed to the effective expression of innovative design language in the combination of industry, academia and research.
 
-😄 I currently teach interaction design at a private art school in Beijing.
+🌱 I currently teach interaction design at a private art school in Beijing.
 
 <!--
 **philanri/philanri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
