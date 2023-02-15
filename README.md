@@ -1,4 +1,4 @@
-<img src="https://phils.design/github/github_profile.jpg">
+<img src="https://phils.design/github/github_cover.png">
 
 😄 Hello there, I’m a digital media designer who is passionate about making clean and unique visual methods to present abstract and complex thoughts. 
 
