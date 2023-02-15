@@ -6,6 +6,8 @@
 
 🌱 I currently teach interaction design at a private art school in Beijing.
 
+Welcome to visit <a href="https://phils.design">✨ Phils.design ✨</a> or <a href="https://haixuzhao.art">✨ Haixuzhao Art ✨</a> to see more of my work.
+
 <!--
 **philanri/philanri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
